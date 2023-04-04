@@ -1,4 +1,4 @@
 # GUIproject
-Steven Derrig
-Jamie Concannon
-Nathan Dean 
+Steven Derrig\n
+Jamie Concannon\n
+Nathan Dean \n
