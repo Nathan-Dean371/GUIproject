@@ -1,4 +1,44 @@
  .bg-primary 
 {
-    background-color: antiquewhite !important;
+    background-color: #87bdd8 !important;
+}
+
+.bg-secondary
+{
+    background-color: #b7d7e8 !important;
+}
+
+.bg-tertiary
+{
+    background-color: #cfe0e8 !important;
+}
+
+.bg-accent
+{
+    background-color: #daebe8 !important;
+}
+
+.btn-primary 
+{
+    background-color: #87bdd8 !important;
+}
+
+.btn-secondary
+{
+    background-color: #b7d7e8 !important;
+}
+
+.btn-tertiary
+{
+    background-color: #cfe0e8 !important;
+}
+
+.btn-accent
+{
+    background-color: #daebe8 !important;
+}
+
+.navbar-toggler
+{
+   color: #527281 !important;
 }
