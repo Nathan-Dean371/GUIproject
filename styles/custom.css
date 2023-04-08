@@ -42,3 +42,9 @@
 {
    color: #527281 !important;
 }
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 .1rem;
+}
