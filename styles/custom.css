@@ -1,46 +1,55 @@
+ :root
+ {
+    --tyrian-purple: #6a0136ff;
+    --penn-red: #ba2441ff;
+    --baby-powder: #f5eac2ff; 
+    --nice-grey: #797d76ff;
+    --midnight: #25383bff;
+ }
+ 
  .bg-primary 
 {
-    background-color: #87bdd8 !important;
+    background-color: var(--tyrian-purple) !important;
 }
 
 .bg-secondary
 {
-    background-color: #b7d7e8 !important;
+    background-color: var(--midnight) !important;
 }
 
 .bg-tertiary
 {
-    background-color: #cfe0e8 !important;
+    background-color: var(--baby-powder) !important;
 }
 
 .bg-accent
 {
-    background-color: #daebe8 !important;
+    background-color: var(--nice-grey)!important;
 }
 
 .btn-primary 
 {
-    background-color: #87bdd8 !important;
+    background-color: var(--tyrian-purple) !important;
 }
 
 .btn-secondary
 {
-    background-color: #b7d7e8 !important;
+    background-color: var(--penn-red) !important;
 }
 
 .btn-tertiary
 {
-    background-color: #cfe0e8 !important;
+    background-color: var(--baby-powder) !important;
 }
 
 .btn-accent
 {
-    background-color: #daebe8 !important;
+    background-color: var(--nice-grey) !important;
 }
 
 .navbar-toggler
 {
-   color: #527281 !important;
+   color: var(--nice-grey) !important;
 }
 
 .navbar-toggler:focus {
@@ -48,3 +57,5 @@
     outline: 0;
     box-shadow: 0 0 0 .1rem;
 }
+
+
