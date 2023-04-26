@@ -67,3 +67,19 @@ hr.solid
 {
     border-top: 3px solid #bbb;
 }
+
+.blurButton
+{
+    backdrop-filter: blur(10px);
+}
+
+.blurButton:hover 
+{
+    backdrop-filter: blur(0px);
+}
+
+.blurButton:hover .blurImage
+{
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
