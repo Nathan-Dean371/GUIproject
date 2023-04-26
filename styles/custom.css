@@ -71,24 +71,28 @@ hr.solid
 .blurButton
 {
     backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 32px 8px rgba(0,0,0,0.87);
 }
 
 
-.blurButton:hover ~ .blurImage
+.blurButton:hover
 {
-    filter: blur(10px);
-    -webkit-filter: blur(10px);
+    backdrop-filter: blur(20px);
 }
 
-.zoom {
-    
-    
+.zoom 
+{
     transition: transform .5s; /* Animation */
     
-    
-  }
+}
   
-.zoom:hover {
+.zoom:hover 
+{
     transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-  }
+}
+
+.columnTitle
+{
+    box-shadow: 1px 16px 17px 8px rgba(0,0,0,0.87);
+}
 
