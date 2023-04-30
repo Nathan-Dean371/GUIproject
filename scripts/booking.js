@@ -2,7 +2,8 @@
 this takes the inputs from the booking page 
 */
 function validateForm()
-		{			
+		{	
+			//checks to see if the correct email format is entered		
 			let email = document.getElementById("InputEmail").value;
 			var at = "@";
 			var dot = ".";

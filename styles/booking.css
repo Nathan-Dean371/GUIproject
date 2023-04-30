@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+.resTitle{
+color: white;
+font-size: 200%;
+margin: 25px;
+font-family: 'Roboto', sans-serif;
+}
+
+.inputTitles{
+  margin: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
