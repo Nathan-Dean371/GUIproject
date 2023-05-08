@@ -1,4 +1,5 @@
-/*Steven Derrig
+/*
+booking JavaScript by Steven Derrig
 this takes the inputs from the booking page 
 */
 
