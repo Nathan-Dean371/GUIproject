@@ -1,0 +1,18 @@
+Here are our image referances:
+bar1 - https://www.pexels.com/photo/assorted-wine-bottles-1283219/
+bartender - https://i2-prod.irishmirror.ie/incoming/article22632079.ece/ALTERNATES/s615/0_I200904_191820_2238600oTextTRMRMMGLPICT000218125811o.jpg
+bartender2 - https://media-cdn.tripadvisor.com/media/photo-s/05/76/06/ab/stone-mad-irish-pub.jpg
+bartender3 - https://www.irishexaminer.com/cms_media/module_img/3684/1842455_2_seoimage2x1_bn-1009532_ad64656c74b84af1a643d9d894d802f2.jpg
+burger1 - https://www.pexels.com/photo/burger-and-fries-on-black-ceramic-plate-7016421/
+cocktail1 - https://www.pexels.com/photo/glass-of-cold-cocktail-with-straw-and-fruit-4227018/
+cocktail2 - https://d3emaq2p21aram.cloudfront.net/media/cache/report_image_big/uploads/CocktailRecipes-InGoodSpirits/summer-cocktail-recipes.jpg
+cocktail3 - https://img.delicious.com.au/F_C2-w6_/w759-h506-cfill/del/2015/11/summer-cocktails-24374-3.jpg
+food1 - https://www.pexels.com/photo/photo-of-a-plate-with-fish-and-chips-10549522/
+food2 - https://www.pexels.com/photo/fish-and-chips-on-the-white-plate-beside-the-glass-of-beer-10289311/
+guinness1 - https://www.pexels.com/photo/guinness-glass-filled-with-beer-2848681/
+logo - Jamie Concannon
+outdoor1 - https://www.pexels.com/photo/women-sitting-on-bench-restaurant-1267693/
+outdoor2 - https://www.pexels.com/photo/outdoor-restaurant-patio-5864289/
+
+Booking page was based off of:
+The Irish House- https://www.irishhousebar.ie/make-a-reservation/
