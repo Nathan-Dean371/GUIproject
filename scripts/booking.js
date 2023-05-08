@@ -33,9 +33,6 @@ function validateForm()
 				var Message = document.getElementById("AdditionalInfo");
 				localStorage.setItem("AdditionalInfo", Message.value);
 				var storedName = localStorage.getItem("AdditionalInfo");
-						
-					//this will pop up once the user submits the form, informing them that thier reservation has been made
-					confirm("Reservation Submitted");
 					
 			//checks to see if the correct email format is entered, making sure that it is in the format	
 			let email = document.getElementById("InputEmail").value;
@@ -48,5 +45,7 @@ function validateForm()
 				alert("You have entered an invalid email address, must contain @ or . Example: example@email.ie");
 				return false;
 			}
+					//this will pop up once the user submits the form, informing them that thier reservation has been made
+					confirm("Reservation Submitted");
 			return true;
 		}
