@@ -1,4 +1,4 @@
-Here are our image referances:
+Here are our image references:
 bar1 - https://www.pexels.com/photo/assorted-wine-bottles-1283219/
 bartender - https://i2-prod.irishmirror.ie/incoming/article22632079.ece/ALTERNATES/s615/0_I200904_191820_2238600oTextTRMRMMGLPICT000218125811o.jpg
 bartender2 - https://media-cdn.tripadvisor.com/media/photo-s/05/76/06/ab/stone-mad-irish-pub.jpg
