@@ -1,3 +1,5 @@
+ /* CSS rules for changing bootstrap colours*/
+ 
  :root
  {
     --tyrian-purple: #6a0136ff;
@@ -68,6 +70,7 @@ hr.solid
     border-top: 3px solid #bbb;
 }
 
+/*Rule to Blue buttons*/
 .blurButton
 {
     backdrop-filter: blur(10px);
@@ -80,6 +83,7 @@ hr.solid
     backdrop-filter: blur(20px);
 }
 
+/* Rule to zoom images*/
 .zoom 
 {
     transition: transform .5s; /* Animation */
